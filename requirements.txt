@@ -1,0 +1,6 @@
+# brew update && brew install gcc (this includes gfortran)
+numpy>=1.12.1
+scipy>=1.5.1
+scikit-learn>=0.19
+matplotlib>=2.2.2
+pandas>=0.22
